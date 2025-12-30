@@ -1,5 +1,12 @@
 # API Documentation / API 文档
 
+> **📱 移动端开发者？** 查看 [移动端对接指南](./docs/MOBILE_INTEGRATION.md)  
+> **📱 Mobile Developer?** Check [Mobile Integration Guide](./docs/MOBILE_INTEGRATION.md)
+
+> **🎨 Android 应用仓库 / Android App Repository**: [CampusShare-AI](https://github.com/psmarter/CampusShare-AI)
+
+---
+
 [English](#english) | [中文](#中文)
 
 ---

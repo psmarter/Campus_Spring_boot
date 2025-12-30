@@ -17,6 +17,36 @@
 
 ---
 
+## 🔗 相关仓库 / Related Repositories
+
+> **本项目是 Campus Item Sharing Platform 的后端 API 服务**  
+> **This is the backend API service for Campus Item Sharing Platform**
+
+### 📦 完整项目组成 / Complete Project Components
+
+| 组件 Component | 仓库 Repository | 技术栈 Tech Stack | 说明 Description |
+|---------------|----------------|------------------|-----------------|
+| **⚙️ 后端 Backend** | [Campus_Spring_boot](https://github.com/psmarter/Campus_Spring_boot) **(当前仓库)** | Spring Boot + MySQL | RESTful API Server |
+| **🎨 前端 Frontend** | [CampusShare-AI](https://github.com/psmarter/CampusShare-AI) | Android (Kotlin) + Gemini AI | Mobile Application |
+
+### 🚀 快速部署 / Quick Deployment Options
+
+#### 🔧 仅后端开发 / Backend Only
+
+按照下方的 [Quick Start](#quick-start) 指南即可。
+
+#### 📱 前后端联调 / Full-Stack Development
+
+1. ✅ 启动后端服务（本仓库，按照下方指南）
+2. ✅ 克隆并配置前端仓库：[CampusShare-AI](https://github.com/psmarter/CampusShare-AI)
+3. ✅ 在前端应用中配置后端 API 地址
+
+> **💡 移动端开发者提示 / Mobile Developer Tip**:  
+> 如果使用 Android 模拟器调试，后端地址应配置为 `http://10.0.2.2:8080`  
+> If using Android emulator, configure backend URL as `http://10.0.2.2:8080`
+
+---
+
 ## English
 
 ### 📖 Overview
@@ -48,6 +78,7 @@ Campus Item Sharing Platform is a full-stack web application designed to help un
 ### 🛠️ Technology Stack
 
 **Backend:**
+
 - Java 17
 - Spring Boot 3.4.3
 - Spring Data JPA
@@ -55,9 +86,11 @@ Campus Item Sharing Platform is a full-stack web application designed to help un
 - MySQL 8.0
 
 **Build Tool:**
+
 - Maven
 
 **Architecture:**
+
 - RESTful API
 - MVC Design Pattern
 - Repository Pattern
@@ -190,6 +223,7 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ### 📧 Contact
 
 If you have any questions or suggestions, feel free to:
+
 - Open an issue on GitHub
 - Contact the author through GitHub
 
@@ -226,6 +260,7 @@ If you have any questions or suggestions, feel free to:
 ### 🛠️ 技术栈
 
 **后端：**
+
 - Java 17
 - Spring Boot 3.4.3
 - Spring Data JPA
@@ -233,9 +268,11 @@ If you have any questions or suggestions, feel free to:
 - MySQL 8.0
 
 **构建工具：**
+
 - Maven
 
 **架构：**
+
 - RESTful API
 - MVC 设计模式
 - 仓储模式
@@ -368,6 +405,7 @@ campus-item-sharing/
 ### 📧 联系方式
 
 如有任何问题或建议，欢迎：
+
 - 在 GitHub 上提 Issue
 - 通过 GitHub 联系作者
 
